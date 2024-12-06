@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\professor\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\professor\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\aluno\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\aluno\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\professor\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\professor\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\aluno\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\aluno\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|c:\\users\\user\\downloads\\ensinomedio\\ensinomedio\\ensinomedio\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA9AEB9-65D8-4050-9B94-CE7634101CE2}|EnsinoMedio\\EnsinoMedio.csproj|solutionrelative:ensinomedio\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Models\\Pessoa.cs",
+              "RelativeToolTip": "EnsinoMedio\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:22:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Models\\Professor.cs",
+              "RelativeToolTip": "EnsinoMedio\\Models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:25:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Professor\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Welcome.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Professor\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T19:21:22.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T19:08:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Program.cs",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Program.cs",
+              "RelativeToolTip": "EnsinoMedio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:08:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:30:57.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Professor\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Cadastro.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Professor\\Cadastro.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:48:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Professor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Professor\\Index.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Professor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:55:34.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Aluno\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Cadastro.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Aluno\\Cadastro.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T18:45:46.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "EnsinoMedio\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:07:42.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:50:26.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Views\\Aluno\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Views\\Aluno\\Welcome.cshtml",
+              "RelativeToolTip": "EnsinoMedio\\Views\\Aluno\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T21:51:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "EnsinoMedio\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\EnsinoMedio\\EnsinoMedio\\EnsinoMedio\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "EnsinoMedio\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:05:21.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

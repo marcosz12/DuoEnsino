@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Bem Vindo!";
+}
+
+
+<!-- Bem-vindo -->
+<header class="bg-primary text-white text-center py-5">
+    <div class="container">
+        <h1>Bem-vindo ao DuoEnsino!</h1>
+        <p class="lead">Uma plataforma para conectar professores e alunos de forma prática e eficiente.</p>
+    </div>
+</header>
+
+<!-- Conteúdo Principal -->
+<div class="container my-5">
+    <div class="row">
+        <!-- Dúvidas dos Alunos -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="duvidas">
+                <div class="card-header bg-info text-white">
+                    <h5 class="card-title mb-0">Dúvidas dos Alunos</h5>
+                </div>
+                <div class="card-body">
+                    <p>Confira e responda as perguntas mais recentes dos seus alunos.</p>
+                    <a href="/Duvidas" class="btn btn-info w-100">Ver Dúvidas</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Perfil do Professor -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="perfil">
+                <div class="card-header bg-success text-white">
+                    <h5 class="card-title mb-0">Perfil do Professor</h5>
+                </div>
+                <div class="card-body">
+                    <p>Gerencie suas informações e configure suas preferências.</p>
+                    <a href="/Perfil" class="btn btn-success w-100">Editar Perfil</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Minhas Correções -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="correcoes">
+                <div class="card-header bg-warning text-dark">
+                    <h5 class="card-title mb-0">Minhas Correções</h5>
+                </div>
+                <div class="card-body">
+                    <p>Acompanhe e finalize as atividades em correção.</p>
+                    <a href="/Correcoes" class="btn btn-warning w-100">Ver Correções</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</footer>
+
+

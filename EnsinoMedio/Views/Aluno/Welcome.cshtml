@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Bem Vindo!!";
+}
+
+
+<header class="bg-primary text-white text-center py-4">
+    <div class="container">
+        <h1>Perfil do Aluno</h1>
+        <p>Bem-vindo, <strong>Nome do Aluno</strong>!</p>
+    </div>
+</header>
+
+<!-- Conteúdo Principal -->
+<div class="container my-5">
+    <div class="row">
+        <!-- Tirar Dúvidas -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="duvidas">
+                <div class="card-header bg-info text-white">
+                    <h5 class="card-title mb-0">Tirar Dúvidas</h5>
+                </div>
+                <div class="card-body">
+                    <p>Envie suas dúvidas para os professores.</p>
+                    <a href="/TirarDuvidas" class="btn btn-info w-100">Nova Dúvida</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dúvidas Já Respondidas -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="respondidas">
+                <div class="card-header bg-success text-white">
+                    <h5 class="card-title mb-0">Dúvidas Já Respondidas</h5>
+                </div>
+                <div class="card-body">
+                    <p>Confira as respostas para suas perguntas anteriores.</p>
+                    <a href="/DuvidasRespondidas" class="btn btn-success w-100">Ver Respostas</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pontuação -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow" id="pontuacao">
+                <div class="card-header bg-warning text-dark">
+                    <h5 class="card-title mb-0">Pontuação</h5>
+                </div>
+                <div class="card-body text-center">
+                    <h2 class="display-5">1200</h2>
+                    <p>Pontos acumulados</p>
+                    <a href="/PontuacaoDetalhada" class="btn btn-warning w-100">Ver Detalhes</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
